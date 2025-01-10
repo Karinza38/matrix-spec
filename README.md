@@ -1,4 +1,4 @@
-# Matrix Specification
+ # Matrix Specification
 
 This repository contains the Matrix Specification. The current release version is rendered at https://spec.matrix.org, while the latest available build of the `main` branch is at https://spec.matrix.org/unstable.
 
