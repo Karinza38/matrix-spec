@@ -10,3 +10,4 @@ attrs >= 23.1.0
 PyYAML >= 3.12
 requests >= 2.18.4
 towncrier == 23.6.0
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
